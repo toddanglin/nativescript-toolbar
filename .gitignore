@@ -2,4 +2,6 @@ tool-bar-common.js
 tool-bar.ios.js
 node_modules
 demo/platforms
+demo/lib
 demo/app/App_Resources/Android
+**/*.log
